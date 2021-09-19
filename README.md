@@ -50,3 +50,10 @@
 - 러스트 토키오 - asynchronous runtime for the Rust ([https://tokio.rs/tokio/tutorial](https://tokio.rs/tokio/tutorial))
 - 러스트 Crates - The Rust community’s crate registry ([https://crates.io/](https://crates.io/))
 - 러스트 docs - is an open source documentation host for crates of the Rust Programming Language ([https://docs.rs](https://docs.rs/)/)
+
+## 러스트 WASM 자료
+
+- The `wasm-bindgen` Guide ([https://rustwasm.github.io/wasm-bindgen/introduction.html](https://rustwasm.github.io/wasm-bindgen/introduction.html))
+- [https://gist.github.com/fitzgen/23a62ebbd67574b9f6f72e5ac8eaeb67](https://www.notion.so/23a62ebbd67574b9f6f72e5ac8eaeb67)
+- [https://github.com/rustwasm](https://github.com/rustwasm)
+- Rust를 WebAssembly로 컴파일하기([https://developer.mozilla.org/ko/docs/WebAssembly/Rust_to_wasm](https://developer.mozilla.org/ko/docs/WebAssembly/Rust_to_wasm))
