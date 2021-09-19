@@ -44,8 +44,9 @@
 
   [https://www.zero2prod.com/assets/sample_zero2prod.pdf](https://www.zero2prod.com/assets/sample_zero2prod.pdf)
 
-## 기타 러스트 공부 자료
+## 기타 러스트 자료
 
 - 자주 묻는 질문들 한국어 ([https://prev.rust-lang.org/ko-KR/faq.html](https://prev.rust-lang.org/ko-KR/faq.html))
 - 러스트 토키오 - asynchronous runtime for the Rust ([https://tokio.rs/tokio/tutorial](https://tokio.rs/tokio/tutorial))
 - 러스트 Crates - The Rust community’s crate registry ([https://crates.io/](https://crates.io/))
+- 러스트 docs - is an open source documentation host for crates of the Rust Programming Language ([https://docs.rs](https://docs.rs/)/)
