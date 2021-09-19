@@ -33,3 +33,17 @@
 ## 러스트 에디션 (업데이트 상세 내역)
 
 - [https://yegeun542.github.io/rust-edition-guide-ko/editions/index.html](https://yegeun542.github.io/rust-edition-guide-ko/editions/index.html) (한국어판)
+
+## 러스트 벡엔드 개발 공부 자료
+
+- Rust로 개발하는 웹 API 서버, 이메일 서버 영어 - [https://www.lpalmieri.com/posts/how-to-write-a-rest-client-in-rust-with-reqwest-and-wiremock/](https://www.lpalmieri.com/posts/how-to-write-a-rest-client-in-rust-with-reqwest-and-wiremock/) →
+
+- Zero To Production In Rust - An introduction to backend development
+
+  [https://github.com/LukeMathWalker/zero-to-production](https://github.com/LukeMathWalker/zero-to-production)
+
+  [https://www.zero2prod.com/assets/sample_zero2prod.pdf](https://www.zero2prod.com/assets/sample_zero2prod.pdf)
+
+## 기타 러스트 공부 자료
+
+- 자주 묻는 질문들 한국어 ([https://prev.rust-lang.org/ko-KR/faq.html](https://prev.rust-lang.org/ko-KR/faq.html))
