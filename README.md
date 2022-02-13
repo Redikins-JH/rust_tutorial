@@ -24,11 +24,13 @@
 
 ## 러스트 공식 안내서
 
+- https://www.rust-lang.org/learn
 - [러스트 공식 안내서: "The Rust Programming Language"](https://doc.rust-lang.org/book/) (영문)
 - [https://rinthel.github.io/rust-lang-book-ko/](https://rinthel.github.io/rust-lang-book-ko/) (한국어판)
 
 ## Rust by Example
 
+- https://doc.rust-lang.org/stable/rust-by-example/index.html - Rust by example 
 - [https://hanbum.gitbooks.io/rustbyexample/content/hello/print/print_debug.html](https://hanbum.gitbooks.io/rustbyexample/content/hello/print/print_debug.html) (한국어판)
 
 ## 러스트 에디션 (업데이트 상세 내역)
