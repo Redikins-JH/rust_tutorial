@@ -49,6 +49,7 @@
 
 ## 기타 러스트 자료
 
+- 러스트 플레이그라운드 - https://play.rust-lang.org/
 - 자주 묻는 질문들 한국어 ([https://prev.rust-lang.org/ko-KR/faq.html](https://prev.rust-lang.org/ko-KR/faq.html))
 - 러스트 토키오 - asynchronous runtime for the Rust ([https://tokio.rs/tokio/tutorial](https://tokio.rs/tokio/tutorial))
 - 러스트 Crates - The Rust community’s crate registry ([https://crates.io/](https://crates.io/))
