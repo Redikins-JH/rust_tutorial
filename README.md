@@ -10,7 +10,7 @@
 
 ## 러스트 유투브
 
-- https://www.youtube.com/watch?v=W9DO6m8JSSs&list=PLfllocyHVgsSJf1zO6k6o3SX2mbZjAqYE (Easy Rust Korean & English also exist - 입문자 추천 ⭐)
+- https://www.youtube.com/watch?v=W9DO6m8JSSs&list=PLfllocyHVgsSJf1zO6k6o3SX2mbZjAqYE (Easy Rust Korean & English also exist - 입문자 추천 ⭐⭐⭐⭐⭐)
 - [https://www.youtube.com/channel/UCaYhcUwRBNscFNUKTjgPFiA](https://www.youtube.com/channel/UCaYhcUwRBNscFNUKTjgPFiA) (러스트 공식 유투브)
 - [https://www.youtube.com/watch?v=Lu5scI-MMoI](https://www.youtube.com/watch?v=Lu5scI-MMoI) (한국 교원대 교수님 - 러스트 언어 소개 강의)
 - [https://www.youtube.com/watch?v=S-01KjUJ3_Q&t=326s](https://www.youtube.com/watch?v=S-01KjUJ3_Q&t=326s) (니콜라스 - 러스트 소개)
